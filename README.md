@@ -1,9 +1,14 @@
 # FCE
 Feedback-based Counterfactual Explanations
 
-Reuqirements
+Reuqirements:
+
 sklearn
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
